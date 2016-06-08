@@ -1,0 +1,28 @@
+1. time
+	essays
+		issue: 30 min
+		argument: 30 min
+	math section
+		20 questions/ 35 min
+	verbal section
+		20 questions/ 30 min
+
+2. math
+	problem solving  60%
+		numeric entry
+		data interpretation
+		multiple-answer questions
+		five-answer multiple choice
+	quantitative comparison
+
+3. verbal
+	text completions  7 per section
+		one-blank, two-blank, three-blank
+		the last question of each type tends to be tough
+	sentence equivalence  4 per section
+	reading comprehension  9 per section
+		paragraph argument  2 per section
+
+4. the new GRE is section adaptive
+	it means if you do well in the first section, the second one will be hard
+but not question adaptive
