@@ -1,11 +1,95 @@
-1. 
+1. format	10 questions per section
+	short passage		2-3 questions
+	medium passage		2-4 questions
+	long passage		4 questions
+	paragraph argument	1 question
 
+2. question type
+	multiple-choice
+	multiple-answer
 
+3. ingredients of the GRE passage 
+	an old theory or explanation is being challenged by a new one (usually in science passages)
+	a debate on an issue (usually in a social science passage)
+	in literary-themed passages, the author will present his opinion
+and there may be other additional theories at the end or somewhere
 
+4. active reading
+	trying to understand the structure and flow of ideas when reading
+		don't dive into the passage without high-level thinking					**************
+		don't try to absorb every word
+		don'r bogged down in deatails but understand how details are used in the passage
+	creating a "mental snapshots" of big ideas in each paragraph
+		pay attention to structure words
+	be excited!!! even though the passage is usually boring
 
+5. how to answer a question
+	five steps
+		read question
+		ignore answers which is comfusing!!!!!
+		paraphrase question (if need be)
+		hunt in the passage to find supporting text
+		answer question in your own words							************
+	match the options to the answer you came up! don't let the options confuse you 
 
+6. common answer traps
+	use words in the passage but twist the meaning
+	true, but in a different part of the passage !!!!
+	commonsensical in the real world, but not found in the passage
+	everything is right except for that one fishy thing
+	flat out wrong
 
+7. primary purpose of the passage
+		usually in the first or the last paragraph
+	wrong answer type
+		too general/vague
+		too specific
+		mentions something that isn't in the passage
+		rotten spot
+	also, come up with your own answer before checking the options
+	but the correct answer may vary slightly from yours
+		as long as it is not wrong, it's good enough
+	propose a theory != evaluate a theory
 
+8. inference questions
+	on the GRE, a valid inference is something that must be true, based on the passage, not might be true
+	wrong answer type
+		assumes too much
+		not in the passage
+		too direct!!! not a inference but merely a description
 
+9. detail questions
+	about a certain sentence or a certain word
 
+10. vocabulary-in-context questions
+	tips
+		treat like a text completion								************
+		take the word out of the passage
+		and try to come up with your own word
+			do NOT plug answer choices back into the paragraph
+			because that's why they are here, to confuse you 
+	answer must be always be a dictionary definition of the word in quotation marks
 
+11. select the sentence
+	requires you to understand the structure
+	usually there will be two sentences that might be the answer
+
+12. multiple answer questions
+	options are usually less obviously wrong
+	tend to cost more time than other questions
+
+13. multiple answer questions - inference
+	pay attention to "all", "never" ..
+
+14. structure questions
+		they ask about the function of specific sentences or paragraphs within the scheme of the passage
+	approach
+		read referenced sentence and then describe it in your own words
+		read the sentence before the referenced sentence, and then describe what the function of the referenced sentence is 
+
+15. advanced question types
+if-then type
+		which of the following, if true, will best undermine/support the theory...
+	tips
+		find the theory in the passage, understand it
+		anticipate the answer
